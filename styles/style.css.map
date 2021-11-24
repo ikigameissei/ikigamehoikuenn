@@ -5,7 +5,7 @@
         "style.scss",
         "breakpoints/_base.scss",
         "breakpoints/_600up.scss",
-        "breakpoints/960up.scss"
+        "breakpoints/_960up.scss"
     ],
     "names": [],
     "file": "style.css"
